@@ -1,0 +1,147 @@
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\LibPrintTicket.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Form1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\LibPrintTicket.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Form1.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\LibPrintTicket.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Form1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\LibPrintTicket.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Form1.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaNegocio.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\LibPrintTicket.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\MySql.Data.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaDatos.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\bin\Release\CapaEntidad.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaNegocio\obj\Release\CapaNegocio.pdb

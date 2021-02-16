@@ -1,0 +1,6 @@
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Release\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Release\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Release\LibPrintTicket.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Release\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Release\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Release\CapaReporte.csprojResolveAssemblyReference.cache

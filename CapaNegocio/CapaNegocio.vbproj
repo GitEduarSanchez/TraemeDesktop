@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB24A942-509C-47C7-89E4-6E8B48469443}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>CapaNegocio</RootNamespace>
+    <AssemblyName>CapaNegocio</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CapaNegocio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CapaNegocio.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LibPrintTicket">
+      <HintPath>..\SistemaVallesas.SAS\bin\Debug\LibPrintTicket.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.RegularExpressions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Class_\ClassCedula.vb" />
+    <Compile Include="Class\Class_\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Class\Class_\Form1.vb" />
+    <Compile Include="Class\Class_\Module1.vb" />
+    <Compile Include="Class\Forms\ClasseExtraerNumero.vb" />
+    <Compile Include="Class\Forms\ClassEmpresa.vb" />
+    <Compile Include="Class\Forms\ClassImpresion.vb" />
+    <Compile Include="Class\Forms\ClassImpresora.vb" />
+    <Compile Include="Class\Class_\ClassAll.vb" />
+    <Compile Include="Class\Class_\ClassBackup.vb" />
+    <Compile Include="Class\Class_\ClassCargarCob.vb" />
+    <Compile Include="Class\Class_\ClassCargarCombox.vb" />
+    <Compile Include="Class\Class_\ClassCargarDatagrid.vb" />
+    <Compile Include="Class\Class_\ClassCnn.vb" />
+    <Compile Include="Class\Class_\ClassCobId.vb" />
+    <Compile Include="Class\Class_\ClassColorDatagri.vb" />
+    <Compile Include="Class\Class_\ClassConsultasDtg.vb" />
+    <Compile Include="Class\Class_\ClassCorrespondencia.vb" />
+    <Compile Include="Class\Class_\ClassCrud.vb" />
+    <Compile Include="Class\Class_\ClassDigital.vb" />
+    <Compile Include="Class\Class_\ClassFechas.vb" />
+    <Compile Include="Class\Class_\ClassFoto.vb" />
+    <Compile Include="Class\Class_\ClassFuncionImage.vb" />
+    <Compile Include="Class\Class_\ClassInsertar.vb" />
+    <Compile Include="Class\Class_\ClassInternet.vb" />
+    <Compile Include="Class\Class_\ClassLogin.vb" />
+    <Compile Include="Class\Class_\ClassMaxID.vb" />
+    <Compile Include="Class\Class_\ClassNumLetra.vb" />
+    <Compile Include="Class\Class_\ClassParent.vb" />
+    <Compile Include="Class\Class_\ClassPdf.vb" />
+    <Compile Include="Class\Class_\ClassPosicionTamaño.vb" />
+    <Compile Include="Class\Class_\ClassSendEmail.vb" />
+    <Compile Include="Class\Class_\ClassSql.vb" />
+    <Compile Include="Class\Class_\ClassTamañoArchivo.vb" />
+    <Compile Include="Class\Class_\ClassTxt.vb" />
+    <Compile Include="Class\Class_\ClassValidaciones.vb" />
+    <Compile Include="Class\Class_\Class_email.vb" />
+    <Compile Include="Class\Class_\Class_exportar_excel.vb" />
+    <Compile Include="Class\Class_\Class_validar_numero.vb" />
+    <Compile Include="Class\Class_\MDI.vb" />
+    <Compile Include="Class\Class_\ModuleFactura.vb" />
+    <Compile Include="Class\Conexion\ClassGetConexion.vb" />
+    <Compile Include="Class\Forms\ClassBacuk.vb" />
+    <Compile Include="Class\Forms\ClassConsultarDtg.vb" />
+    <Compile Include="Class\Forms\ClassConsultarFechas.vb" />
+    <Compile Include="Class\Forms\ClassDtgformato.vb" />
+    <Compile Include="Class\Forms\ClassEmail.vb" />
+    <Compile Include="Class\Forms\ClassExportarExcel.vb" />
+    <Compile Include="Class\Forms\ClassFoto.vb" />
+    <Compile Include="Class\Forms\ClassImagen.vb" />
+    <Compile Include="Class\Forms\ClassIP.vb" />
+    <Compile Include="Class\Forms\ClassLogin_.vb" />
+    <Compile Include="Class\Forms\ClassMaxID.vb" />
+    <Compile Include="Class\Forms\ClassMetadatos.vb" />
+    <Compile Include="Class\Forms\ClassNumeroLetras.vb" />
+    <Compile Include="Class\Forms\ClassPdf.vb" />
+    <Compile Include="Class\Forms\ClassPolimorfismoGetid.vb" />
+    <Compile Include="Class\Forms\ClassPolimorfismoSearch.vb" />
+    <Compile Include="Class\Forms\ClassReset.vb" />
+    <Compile Include="Class\Forms\ClassSoloNumeros.vb" />
+    <Compile Include="Class\Forms\ClassTooltip.vb" />
+    <Compile Include="Class\Forms\ClassUsuario.vb" />
+    <Compile Include="Class\Forms\singleton.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Class\Class_\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaConexion.vbproj">
+      <Project>{83128e28-8d1b-4f6b-a20b-d2a871dfa280}</Project>
+      <Name>CapaConexion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaDato\CapaDato.csproj">
+      <Project>{891a1c58-d518-471d-bf27-c34c1cc72641}</Project>
+      <Name>CapaDato</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

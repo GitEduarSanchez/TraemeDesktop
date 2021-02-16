@@ -1,0 +1,12 @@
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\obj\Debug\CapaReporte.csprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\bin\Debug\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\bin\Debug\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\bin\Debug\LibPrintTicket.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\obj\Debug\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaReporte\obj\Debug\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Debug\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Debug\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\bin\Debug\LibPrintTicket.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Debug\CapaReporte.csprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Debug\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaReporte\obj\Debug\CapaReporte.pdb

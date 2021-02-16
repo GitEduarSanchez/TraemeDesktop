@@ -1,0 +1,104 @@
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resources.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaDatos.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaEntidad.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\MySql.Data.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaEntidad.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\bin\Release\CapaEntidad.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.frm_config.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.Resource1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.Resource2.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.Resource3.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\licencias\CapaDatos\obj\Release\CapaDatos.pdb

@@ -1,0 +1,799 @@
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+c:\users\user\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\MySql.Data.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+C:\Users\USER\Documents\Visual Studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visor_pdf.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+C:\Users\USER\documents\visual studio 2017\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\MySql.Data.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\DevComponents.DotNetBar2.xml
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\Interop.AcroPDFLib.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visor_pdf.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+G:\ \SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_empleado.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\MySql.Data.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_empleado.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visor_pdf.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SistemaVallesas.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_empleado.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visor_pdf.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.CoreCompileInputs.cache
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2017\Backup Files\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_empleado.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cantida.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_opciones_facturacion.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visor_pdf.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+\\Contabilidad\info compartida\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_empleado.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agregar_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cantida.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_opciones_facturacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Form1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eduar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS_ - copia\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_empleado.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_factura.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_pdf.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_emp_act.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_emp_anti.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_emp_dta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_emp_fact.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_detalle_venta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormBackup.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agregar_empresa.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agregar_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimentacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alteracion_valor.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_anticipo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cantida.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_capturar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_actividades.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_anticipos.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_kardex.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta_nomina.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eduar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_facturacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_ingreso_datos.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_opciones_facturacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_password.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_supervisor.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_prev_eliminar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_actividad.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_arl.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_boni_tonelada.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cargo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_categoria.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_compensacion.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empleados.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_empresa.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_eps.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_mina.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pension.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_alimento.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_emp_ali.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_emp_query.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_llevar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_b_seleccionado.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_detalle_venta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave_reset.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_visita.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaReporte.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\bin\Debug\CapaReporte.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_venta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareVallesar.SAS++\SoftwareVallesar.SAS\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_imp_alimento.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\Conectar a un Puerto COM.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\Conectar a un Puerto COM.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\Conectar a un Puerto COM.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_capturar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.PDFCreatorAppLib.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_capturar.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta.resources
+C:\Users\vallesar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_invertir.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_invertir.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_huella.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_capturar.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\Edwar\Documents\Visual Studio 2012\Projects\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_invertir.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_modificar.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_huella.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_capturar.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\Usuario\Downloads\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_invertir.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_modificar.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_productos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cliente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_informe_de_ventas.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_informe_ciudades.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_panel.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_edt.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_grupo_precios.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cantidad_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto_por_cliente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto_por_presentacion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\SoftwareBascula\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_informe_iva.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.config
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\SistemaVallesas.SAS.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDatos.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaDato.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaEntidad.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.pdb
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\bin\Debug\CapaNegocio.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_config.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.FormVehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_act_vehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_agrega_vehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_clave.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_conductor.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_consulta.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_contrato.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_despacho.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_destino.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_emp_bascula.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_indicador.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_invertir.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_modificar.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_origen.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_reimprimir.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipovehiculo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_titulo.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_usuario.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_previa.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_vista_registro.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_bolsa.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_cliente_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_buscar_producto_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cambio.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cantidad_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_cliente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_credito_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_edt.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_grupo_precios.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_huella.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_login.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_panel.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_pos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_productos.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto_por_cliente.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_producto_por_presentacion.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.frm_tipo_documento.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.MDIParent1.resources
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe.manifest
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.application
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.exe
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.xml
+C:\Users\usuario\Documents\Visual Studio 2012\Projects\POLIEDRO\SoftwareBascula\Bascula\Bascula\SistemaVallesas.SAS\obj\Debug\SistemaVallesas.SAS.pdb
