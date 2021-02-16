@@ -1,4 +1,0 @@
-﻿
-Class MDI
-
-End Class
